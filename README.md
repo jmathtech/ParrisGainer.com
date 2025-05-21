@@ -41,8 +41,10 @@ git clone https://github.com/YourGitHubUsername/ParrisGainer.com-wordpress.git
 - Activate: Log into your local WordPress admin dashboard and activate the custom theme and/or plugins.
 - Development: Begin making changes to the files in your local theme/plugin directories.
 - Version Control: Use git to track your changes, commit them, and push back to this GitHub repository.
-- Contributing
 
+[View the full project document on Google Docs](https://docs.google.com/document/d/1lMLYwwESvsOGNtTaqo8SLrg-NNQ7cVxl_oPA_-ALzNE/edit?usp=drive_link)
+
+** Contributing **
 This repository is maintained for the development and management of ParrisGainer.com. While direct external feature contributions are not typically accepted, if you notice any issues or have suggestions related to the custom theme or plugins, please open an issue in this repository.
 
 **License**
