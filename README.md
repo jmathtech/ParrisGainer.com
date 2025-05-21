@@ -32,9 +32,10 @@ Workflow for custom theme/plugin development:
 
 Set up your local WordPress site.
 Clone this repository:
-`Bash
+```Bash
 
-git clone https://github.com/YourGitHubUsername/ParrisGainer.com-wordpress.git`
+git clone https://github.com/YourGitHubUsername/ParrisGainer.com-wordpress.git
+```
 
 - Copy custom files: Move the relevant theme folder from the cloned repo into your local WordPress's wp-content/themes/ directory, and any custom plugin folders into wp-content/plugins/.
 - Activate: Log into your local WordPress admin dashboard and activate the custom theme and/or plugins.
